@@ -1,0 +1,3 @@
+# bitcamp-project-web2
+
+이 폴더에는 웹 관련 파일을 둔다. 
